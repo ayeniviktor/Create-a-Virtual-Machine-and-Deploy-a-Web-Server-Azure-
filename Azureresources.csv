@@ -1,0 +1,5 @@
+﻿NAME,TYPE,LOCATION,RESOURCE LINK
+"BASTION-USE-NextCloud","Bastion","East US","https://portal.azure.com#resource/subscriptions/79ae2721-1e7a-4c90-999d-e6ae507477a8/resourceGroups/RG-USE-NextCloud/providers/Microsoft.Network/bastionHosts/BASTION-USE-NextCloud"
+"BASTIONIP-USE-NextCloud","Public IP address","East US","https://portal.azure.com#resource/subscriptions/79ae2721-1e7a-4c90-999d-e6ae507477a8/resourceGroups/RG-USE-NextCloud/providers/Microsoft.Network/publicIPAddresses/BASTIONIP-USE-NextCloud"
+"NSG-USE-NextCloud","Network security group","East US","https://portal.azure.com#resource/subscriptions/79ae2721-1e7a-4c90-999d-e6ae507477a8/resourceGroups/RG-USE-NextCloud/providers/Microsoft.Network/networkSecurityGroups/NSG-USE-NextCloud"
+"VNET-USE-NextCloud","Virtual network","East US","https://portal.azure.com#resource/subscriptions/79ae2721-1e7a-4c90-999d-e6ae507477a8/resourceGroups/RG-USE-NextCloud/providers/Microsoft.Network/virtualNetworks/VNET-USE-NextCloud"
